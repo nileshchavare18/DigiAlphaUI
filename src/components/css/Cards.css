@@ -1,0 +1,33 @@
+.second-heading{
+    font-size: 36px;
+    font-weight: 600px;
+}
+
+.text{
+    font-weight: 400px;
+    font-size: 16px;
+}
+
+.card-inner{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+.card-img{
+    position: relative;
+}
+
+.btn-section{
+    position: absolute;
+    background-color: white;
+    top: 70%;
+    left: 15px;
+    padding:10px;
+    border-radius: 10px;
+    width: 317px;
+    height: 176px;
+  
+}
